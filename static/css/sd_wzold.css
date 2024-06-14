@@ -1,0 +1,119 @@
+.old_type .currpos {
+  font-size: 24px;
+  padding-left: 30px;
+  background-size: 24px;
+  line-height: 24px;
+  margin: 0px auto 30px;
+}
+.old_type .currpos a {
+  font-size: 24px;
+}
+.old_type .tj_subject {
+  padding: 50px 0 50px 0;
+}
+.old_type .Article .artic_key {
+  width: 90%;
+}
+.old_type .Article .artic_key li {
+  line-height: 48px;
+  font-size: 24px;
+  width: 100%;
+}
+.old_type .Article .artic_key li span {
+  width: 30% !important;
+}
+.old_type .Article .artic_key li p {
+  width: 70% !important;
+}
+.old_type .Article .ImporFull .main_title {
+  font-size: 48px;
+  line-height: 96px;
+  width: 90%;
+}
+.old_type .Article .ImporFull .artic_tother {
+  width: 90%;
+  font-size: 24px;
+  line-height: 48px;
+}
+.old_type .artic_tother_right.fr {
+  float: left;
+}
+.old_type .Article .ImporFull .artic_tother p {
+  line-height: 48px;
+  width: 359px;
+  margin-right: 0;
+}
+.old_type .artic_tother .print {
+  width: 359px;
+}
+.old_type #share-2 {
+  line-height: 48px;
+  font-size: 24px;
+  width: 359px;
+  padding-left: 0;
+}
+.old_type .social-share .social-share-icon {
+  width: 33px;
+  height: 32px;
+}
+.old_type .social-share .icon-wechat .wechat-qcode {
+  top: -383px;
+  left: -134px;
+  width: 300px;
+  height: auto;
+}
+.old_type .social-share .icon-wechat .wechat-qcode h4 {
+  height: 48px;
+  line-height: 48px;
+  font-size: 24px;
+}
+.old_type .qcode img {
+  width: 150px;
+}
+.old_type .social-share .icon-wechat .wechat-qcode .qcode {
+  width: 150px;
+}
+.old_type .help p {
+  font-size: 24px !important;
+  line-height: 48px !important;
+  width: 300px !important;
+}
+.old_type .main_section {
+  font-size: 32px;
+  line-height: 64px;
+}
+.old_type .main_section p {
+  font-size: 32px;
+  line-height: 64px;
+}
+.old_type .main_section p span {
+  font-size: 32px;
+  line-height: 64px;
+}
+.old_type .main_section p span strong {
+  font-size: 32px;
+  line-height: 64px;
+}
+.old_type .main_section span {
+  font-size: 32px;
+  line-height: 64px;
+}
+.old_type .main_section span strong {
+  font-size: 32px;
+  line-height: 64px;
+}
+.old_type .Article .ImporFull .main_section {
+  width: 90%;
+}
+.old_type .Article .artic-bto {
+  width: 90%;
+  font-size: 32px;
+  line-height: 64px;
+}
+.old_type .tabletitle {
+  font-size: 32px;
+  line-height: 64px;
+}
+.old_type .tablelist{
+  font-size: 32px;
+}

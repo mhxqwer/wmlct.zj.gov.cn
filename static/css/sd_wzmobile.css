@@ -1,0 +1,15 @@
+.mobile_type .bt-box-1200 {
+  width: 95vw;
+}
+.mobile_type .Article .artic_key li span {
+  width: 30% !important;
+}
+.mobile_type .Article .artic_key li p {
+  width: 70% !important;
+}
+.mobile_type .Article .ImporFull .main_section table .tablelist p {
+  padding: 3vw;
+}
+.mobile_type .Article .ImporFull .main_section table .tablelist img {
+  padding: 3vw;
+}
